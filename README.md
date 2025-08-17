@@ -1,2 +1,2 @@
-# F-rum-Hun
+# ForumHub
 Fórum Hub
